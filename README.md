@@ -42,7 +42,7 @@ Pour plus de détails, sélectionnez l'option Règles dans le menu principal.
 ## 🏗️ Installation
 Clonez le dépôt :
    ```bash
-   git clone https://github.com/MathysSclafer/this-is-a-game.git
+   git clone https://github.com/djelines/This_is_Game.git
    ```
 
 
